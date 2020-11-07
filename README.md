@@ -1,2 +1,2 @@
 # silent_uno
-Our project at Intech S1
+Our project at INTECH S1
